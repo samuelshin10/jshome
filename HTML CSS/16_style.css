@@ -1,0 +1,26 @@
+h1 {
+  background-color: blue;
+  color: yellow;
+  font-size: 100px;
+}
+
+h2 {
+  color:darkblue;
+  font-size: 30px;
+}
+
+li {
+  color:darkgreen;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+p{
+  color:#FF0000;
+  background-color: lightseagreen;
+  font-size: 20px;
+  font-weight: bolder; 
+  font-style: italic;
+
+}
